@@ -1,2 +1,42 @@
 Ahmet Emir Boşnak - 22002398 - hhtps://github/aemirbosnak
 Prey (2017)
+
+commit 25f02efddb33069b2f8655b1fb3e00ec59de4fd0 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 4aa0953 c5014ed
+Author: aemirbosnak <74698909+aemirbosnak@users.noreply.github.com>
+Date:   Wed Sep 29 15:26:24 2021 +0300
+
+    Merge pull request #1 from aemirbosnak/new_information
+
+    updated info.txt
+
+commit c5014ed1fe6665d78ce2928360887ead3e9c1a60 (origin/new_information, new_information)
+Author: Emir Bosnak <emir.bosnak@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 15:20:22 2021 +0300
+
+    updated info.txt
+
+commit 4aa095324b351be80d04c95b345218dd8fdc436d
+Author: aemirbosnak <emir.bosnak@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 15:09:32 2021 +0300
+
+    Ahmet_Emir_Bosnak updated info.txt
+
+commit 1f83bc0fd286d3d28e3bfd08ba8bb928a9968c4f
+Author: aemirbosnak <74698909+aemirbosnak@users.noreply.github.com>
+Date:   Wed Sep 29 15:05:16 2021 +0300
+
+    Update README.md
+
+commit e20092203ed1587bfc4cae313099dbc2c570848f
+Author: aemirbosnak <74698909+aemirbosnak@users.noreply.github.com>
+Date:   Wed Sep 29 15:04:42 2021 +0300
+
+    Update README.md
+
+commit 801ae8b652cfd468e0d577b89587187ec4b3ea69
+Author: aemirbosnak <74698909+aemirbosnak@users.noreply.github.com>
+Date:   Wed Sep 29 15:04:01 2021 +0300
+
+    Initial commit
+PS C:\Users\aebos\Desktop\Courses\CS\CS102\Labs\Lab1\Git Tutorial\CS-102-GitHub-Tutorial>
